@@ -1,0 +1,18 @@
+h1 {
+    color: lightpink;
+    font-weight: bold;
+    
+}
+h3 {
+    color:lightpink;
+    font-weight: bold;
+}
+div {
+    border-style:solid;
+    border-color:black;
+    border-width: 6px;
+    background-color: slategray;
+}
+body {
+    background-color: lightpink;
+}
